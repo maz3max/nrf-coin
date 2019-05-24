@@ -1,0 +1,3 @@
+target.app: apps/ble_app
+target.bsp: "hw/bsp/nrf52-board"
+target.build_profile: debug

@@ -1,0 +1,3 @@
+target.app: apps/ble_app
+target.bsp: "hw/bsp/nrf51-coin"
+target.build_profile: debug
